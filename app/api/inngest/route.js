@@ -1,4 +1,4 @@
-import { inngest } from "@/lib/inngest/client";
+import { inngest } from "../../../lib/inngest/client";
 import { generateIndustryInsights } from "../inngest/functions";
 import { serve } from "inngest/next";
 
